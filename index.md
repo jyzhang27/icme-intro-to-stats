@@ -20,31 +20,34 @@ He received a Terman fellowship, a NSF CAREER award, and the Distinguished Teach
 # Workshop Materials
 
 ## Pre-workshop Checklist
-TODO(instructor): enumerate what students need to take care of before the
-workshop. E.g.
 
-1. Download the following tools: ...
+1. Make sure you have the Zoom links to the course. If not please email us (jyz27 [at] stanford [dot] edu). 
 2. Familiarize with the schedule posted below.
 
 ## Schedule and Slides 
 
+Slides will be added in due course. 
+
 #### Session 1: Monday August 1st, 1:00 - 2:30 PM. PST
-  - Descriptive statistics, producing data, sampling and experiments.
+  - Descriptive statistics
+  - Producing data
+  - Sampling and experiments.
   
 #### Session 2: Tuesday August 1st, 2:35 - 4:00 PM. PST
-  - Probability, the normal curve and the central limit theorem.
+  - Probability
+  - The normal curve
+  - The central limit theorem.
 
 #### Session 3: Tuesday August 2st, 1:00 - 2:30 PM. PST
-  - Regression, confidence intervals and the bootstrap
+  - Regression
+  - Confidence intervals
+  - The bootstrap
 
 #### Session 4: Tuesday August 2st, 2:35 - 4:00 PM. PST
-  - Testing hypotheses, multiple comparisons and reproducibility.
+  - Testing hypotheses
+  - Multiple comparisons 
+  - Reproducibility.
 
-## Additional Resources
-
-Here are some additional resources for various topics:
-
-TODO(instructor): fill in with pertinent resources.
 
 
 
