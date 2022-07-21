@@ -5,7 +5,7 @@ layout: default
 # Workshop Description
 Statistics is the science of learning from data. This workshop will help you to develop the skills you need to analyze data and to communicate your findings. There won't be many formulas in the workshop; rather, we will develop the key ideas of statistical thinking that are essential for learning from data.
 
-We will discuss the main tools for descriptive statistics which are essential for exploring data, with an emphasis on visualizing information. We will explain the important ideas about sampling and conducting experiments. Then we will look over some important rules of probability and discuss normal approximation and the central limit theorem. We will show you the important concepts and pitfalls of regression and how to do inference with confidence intervals and tests of hypotheses. You will learn how to analyze categorical data and discuss one-way analysis of variance. Finally, we will look at reproducibility, data snooping and the multiple testing fallacy, and how to account for multiple comparisons. These issues have become particularly important in the era of big data.
+We will discuss the main tools for descriptive statistics which are essential for exploring data, with an emphasis on visualizing information. We will explain the important ideas about sampling and conducting experiments. Then we will look over some important rules of probability and discuss normal approximation and the central limit theorem. We will show you the important concepts and pitfalls of regression and how to do inference with confidence intervals and tests of hypotheses. Finally, we will look at reproducibility, data snooping and the multiple testing fallacy, and how to account for multiple comparisons. These issues have become particularly important in the era of big data.
 
 Broadly, there are three main reasons why statistical literacy is essential in data science: First, it provides the skills to assess whether the data are sufficient to answer the questions at hand. Second, it establishes a rigorous framework for quantifying uncertainty. And finally, it provides techniques for effectively communicating the findings of your analyses. This workshop equips you with the important tools in all of these areas. It is the statistical foundation on which the recent exciting advances in machine learning are built.
 
@@ -28,13 +28,17 @@ workshop. E.g.
 
 ## Schedule and Slides 
 
-#### Session 1: Monday August 1st, 1:00 - 4:00 PM. PST
-  - Topic 1 with example time-allocation.
-  - Topic 2 with example time-allocation, etc.
-  - 15 minute Q&A
+#### Session 1: Monday August 1st, 1:00 - 2:30 PM. PST
+  - Descriptive statistics, producing data, sampling and experiments.
   
-#### Session 2: Tuesday August 1st, 1:00 - 4:00 PM. PST
-  - Something similar as above.
+#### Session 2: Tuesday August 1st, 2:35 - 4:00 PM. PST
+  - Probability, the normal curve and the central limit theorem.
+
+#### Session 3: Tuesday August 2st, 1:00 - 2:30 PM. PST
+  - Regression, confidence intervals and the bootstrap
+
+#### Session 4: Tuesday August 2st, 2:35 - 4:00 PM. PST
+  - Testing hypotheses, multiple comparisons and reproducibility.
 
 ## Additional Resources
 
