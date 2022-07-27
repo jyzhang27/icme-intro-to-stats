@@ -26,27 +26,30 @@ He received a Terman fellowship, a NSF CAREER award, and the Distinguished Teach
 
 ## Schedule and Slides 
 
-Slides will be added in due course. 
 
 #### Session 1: Monday August 1st, 1:00 - 2:30 PM. PST
   - Descriptive statistics
   - Producing data
-  - Sampling and experiments.
+  - Sampling and experiments
+  - Slides: [Part 1](/docs/S1.pdf), [Part 2](/docs/S2.pdf)
   
 #### Session 2: Tuesday August 1st, 2:35 - 4:00 PM. PST
   - Probability
   - The normal curve
-  - The central limit theorem.
+  - The central limit theorem
+  - Slides: [Part 3](/docs/S3.pdf), [Part 4](/docs/S4.pdf)
 
 #### Session 3: Tuesday August 2st, 1:00 - 2:30 PM. PST
   - Regression
   - Confidence intervals
   - The bootstrap
+  - Slides: [Part 5](/docs/S5.pdf), [Part 6](/docs/S6.pdf)
 
 #### Session 4: Tuesday August 2st, 2:35 - 4:00 PM. PST
   - Testing hypotheses
   - Multiple comparisons 
-  - Reproducibility.
+  - Reproducibility
+  - Slides: [Part 7](/docs/S7.pdf), [Part 8](/docs/S8.pdf)
 
 
 
