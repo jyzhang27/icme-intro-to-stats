@@ -52,7 +52,7 @@ He received a Terman fellowship, a NSF CAREER award, and the Distinguished Teach
   - Slides: [Part 7](/docs/S7.pdf), [Part 8](/docs/S8.pdf)
 
 
-Here is a [summary](/docs/summary.pdf)] of the short course, we hope it will be helpful!
+Here is a [summary](/docs/summary.pdf) of the short course, we hope it will be helpful!
 
 
 
