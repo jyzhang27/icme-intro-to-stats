@@ -39,6 +39,9 @@ He received a Terman fellowship, a NSF CAREER award, and the Distinguished Teach
   - The central limit theorem
   - Slides: [Part 3](/docs/S3.pdf), [Part 4](/docs/S4.pdf)
 
+#### [Day 1 recording available]( https://stanford.zoom.us/rec/share/f8HZSFGMT0eqPI4DsVK8Tf4OAiCQUSnbs7DqG0M7sfeV0QODw2GmCXmeIFwEraFy.y26FjAxAS97DwpLV?startTime=1659383173000)
+
+
 #### Session 3: Tuesday August 2st, 1:00 - 2:30 PM. PST
   - Regression
   - Confidence intervals
