@@ -54,6 +54,7 @@ He received a Terman fellowship, a NSF CAREER award, and the Distinguished Teach
   - Reproducibility
   - Slides: [Part 7](/docs/S7.pdf), [Part 8](/docs/S8.pdf)
 
+#### [Day 2 recording available](https://stanford.zoom.us/rec/share/z2J8LJkFb-DCMQNbZHtvbjzXrGjRPCBl6qb8_cGO_N_zBXX30nigwK3HFbBZap3Q.oeDImZjMrL2_msxH?startTime=1659469375000)
 
 Here is a [summary](/docs/summary.pdf) of the short course, we hope it will be helpful!
 
