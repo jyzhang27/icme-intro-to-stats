@@ -56,6 +56,8 @@ He received a Terman fellowship, a NSF CAREER award, and the Distinguished Teach
 
 #### [Day 2 recording available](https://stanford.zoom.us/rec/share/z2J8LJkFb-DCMQNbZHtvbjzXrGjRPCBl6qb8_cGO_N_zBXX30nigwK3HFbBZap3Q.oeDImZjMrL2_msxH?startTime=1659469375000)
 
+#### Mini quiz [solutions](/docs/Quiz_Solns.docx)
+
 Here is a [summary](/docs/summary.pdf) of the short course, we hope it will be helpful!
 
 
